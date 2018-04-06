@@ -863,7 +863,7 @@ input[type="text"] {
   width: 100%;
   position: absolute;
   color: rgba(255, 255, 255, 0.5);
-  font-size: 17px;
+  font-size: 10px;
   font-family: 'Kanit', sans-serif;
   border-left: 2px solid rgba(255, 255, 255, 0.5);
   top: 70%;
